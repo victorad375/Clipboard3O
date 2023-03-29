@@ -1,0 +1,232 @@
+.ffirst{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-image: url(../img/bg-header-desktop.png);
+    padding: 80px;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium';
+    font-size: 50px;
+    text-align: center;
+}
+
+.cp{
+    text-align: center;
+    font-family:'Franklin Gothic Medium';
+    color: gray;
+    font-size: 20px;
+}
+
+.IIOS{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    padding-left: 450px;
+}
+
+.IOS{
+    font-family: 'Franklin Gothic Medium';
+    font-weight: bold;
+    background-color: rgb(141, 212, 35);
+    border-radius: 30px;
+    border: none;
+    padding: 15px;
+    font-size: 20px;
+    width: 200px;
+    color: white;
+    cursor: pointer;
+}
+
+
+.MMAC{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    padding-right: 450px;
+    margin-top: -50px;
+}
+
+
+.MAC{
+    font-family: 'Franklin Gothic Medium';
+    font-weight: bold;
+    background-color: rgb(61, 64, 207);
+    border-radius: 30px;
+    border: none;
+    padding: 15px;
+    font-size: 20px;
+    width: 200px;
+    color: white;
+    cursor: pointer;
+}
+
+.phones{
+    margin-top: 50px;
+}
+
+.keep{
+    font-family: 'Franklin Gothic Medium';
+    font-size: 35px;
+    text-align: center;
+}
+
+.track{
+    text-align: center;
+    font-family:'Franklin Gothic Medium';
+    color: gray;
+    font-size: 20px;
+}
+
+.computer{
+    float: left;
+    margin-left: -30px;
+}
+
+.quick{
+    font-family: 'Franklin Gothic Medium';
+    font-size: 35px;
+    text-align: center;
+
+}
+
+.es{
+    text-align: center;
+    font-family:'Franklin Gothic Medium';
+    color: gray;
+    font-size: 20px;
+}
+
+.ees{
+    text-align: center;
+    font-family:'Franklin Gothic Medium';
+    color: gray;
+    font-size: 20px;
+    padding-left: 470px;
+}
+
+.devices{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ttrack{
+    text-align: start;
+    font-family:'Franklin Gothic Medium';
+    color: gray;
+    font-size: 20px;
+    padding-left: 20px;
+}    
+
+.trrack{
+    text-align: end;
+    font-family:'Franklin Gothic Medium';
+    color: gray;
+    font-size: 20px;
+    padding-right: 20px;
+}
+
+.blacklist{
+    padding-left: 170px;
+}
+
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pre{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    padding-right: 170px;
+}
+
+
+.tm{
+    margin-top: -155px;
+}
+
+.preview{
+    margin-top: -135px;
+}
+
+
+.gg{
+    padding-left: 50px;
+}
+
+.ibm{
+    padding-left: 290px;
+    margin-top: -90px;
+}
+
+
+.micro{
+    padding-left: 550px;
+    margin-top: -85px;
+}
+.hp{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+   padding-right: 350px;
+    margin-top: -80px;
+}
+
+.vg{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    padding-right: 100px;
+    margin-top: -80px;
+}
+
+.ending{
+    border: 1px solid lavender;
+    background-color: lavender;
+
+}
+
+.logo{
+    margin-top: 70px;
+    padding-left: 100px;
+}
+
+.fc{
+    font-family:'Franklin Gothic Medium';
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.faq{
+    margin-top: -80px;
+    padding-left: 300px;
+}
+
+.privacy{
+    margin-top: -85px;
+    padding-left: 550px;
+}
+
+.Install{
+    margin-top: -105px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    padding-right: 400px;
+    margin-bottom: 70px;
+}
+
+.cpp{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    padding-right: 30px;
+    color: black;
+    padding-top: 20px;
+    font-family: 'Franklin Gothic Medium';
+}
